@@ -335,7 +335,7 @@ So if someone is new to this folder:
 - and treat the pipeline as an approximation of the notebook rather than a one-to-one reproduction.
 
 
-#  PHASE 2(JIVAK) SUMO Network & Route Generation Tools
+#  PHASE 2(JIVAL) SUMO Network & Route Generation Tools
 
 This directory contains two Python utilities for working with SUMO (Simulation of Urban MObility) network and route files.
 
